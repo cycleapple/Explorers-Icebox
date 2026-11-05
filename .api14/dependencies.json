@@ -3,7 +3,7 @@
     "path": "ECommons",
     "baseCommit": "5086285832a43bd39b616be055d0cb49df2e53ec",
     "patch": "patches/e347001520b30beb.patch",
-    "sha256": "afd725b80b2a83ac52c6f4cdeff1447af418e9d65a623851d95d71be18f715ba"
+    "sha256": "10186c8ea878d917c6dcc7e64104159e5bb181d3db9281084e7e7cc247967a1a"
   },
   {
     "path": "ffxiv_pictomancy",
